@@ -2,15 +2,26 @@
 
 A new Flutter project.
 
-## Getting Started
+# Splash Screen
+![Splash Screen](https://user-images.githubusercontent.com/54678239/138806448-b8300f54-3bb8-435b-aed5-362d2c2344c9.png)
 
-This project is a starting point for a Flutter application.
+# Login Screen
+![Login Screen](https://user-images.githubusercontent.com/54678239/138806475-af89ec58-19fa-4b74-b720-d5ec148d35df.png)
 
-A few resources to get you started if this is your first Flutter project:
+# SignUp Screen
+![Sign Up Screen](https://user-images.githubusercontent.com/54678239/138806490-2ceaa916-17b8-413e-a501-66439ebaf116.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Home Screen
+![Home Screen](https://user-images.githubusercontent.com/54678239/138806517-b3c0fb1d-9ab5-42cb-817c-e86c9becd827.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# AddCategory Screen
+![Add Category Screen](https://user-images.githubusercontent.com/54678239/138806538-aa879052-db02-4a4e-85da-64c1cf344674.png)
+
+# TaskList Screen
+![Task List Screen](https://user-images.githubusercontent.com/54678239/138806560-a60d93cc-d98f-49b0-b5a3-a45196d5ebc2.png)
+
+# AddTaskList Screen
+![Add Task List Screen](https://user-images.githubusercontent.com/54678239/138806571-193d1a84-4b77-40ce-a6a5-627fbba8cf17.png)
+
+# Menu Screen
+![Menu Screen](https://user-images.githubusercontent.com/54678239/138806634-174ea040-ba81-44e7-9e5f-104aac93611d.png)
