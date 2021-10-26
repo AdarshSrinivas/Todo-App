@@ -3,25 +3,25 @@
 A new Flutter project.
 
 # Splash Screen
-![Splash Screen](https://user-images.githubusercontent.com/54678239/138806448-b8300f54-3bb8-435b-aed5-362d2c2344c9.png)
+![Splash Screen](https://user-images.githubusercontent.com/54678239/138807155-995153d6-121c-44eb-807b-3b6b6c39f9ab.png)
 
 # Login Screen
-![Login Screen](https://user-images.githubusercontent.com/54678239/138806475-af89ec58-19fa-4b74-b720-d5ec148d35df.png)
+![Login Screen](https://user-images.githubusercontent.com/54678239/138807148-c4bca6df-8920-48b8-be47-53b2ac596b15.png)
 
 # SignUp Screen
-![Sign Up Screen](https://user-images.githubusercontent.com/54678239/138806490-2ceaa916-17b8-413e-a501-66439ebaf116.png)
+![Sign Up Screen](https://user-images.githubusercontent.com/54678239/138807153-74e5c2ee-1a64-4208-a234-721a37c48fce.png)
 
 # Home Screen
-![Home Screen](https://user-images.githubusercontent.com/54678239/138806517-b3c0fb1d-9ab5-42cb-817c-e86c9becd827.png)
+![Home Screen](https://user-images.githubusercontent.com/54678239/138807163-d41c3866-39db-4a86-8d58-ba8108e88b0f.png)
 
 # AddCategory Screen
-![Add Category Screen](https://user-images.githubusercontent.com/54678239/138806538-aa879052-db02-4a4e-85da-64c1cf344674.png)
+![Add Category Screen](https://user-images.githubusercontent.com/54678239/138807159-994de702-1b4c-408c-9dc5-e472528eec5e.png)
 
 # TaskList Screen
-![Task List Screen](https://user-images.githubusercontent.com/54678239/138806560-a60d93cc-d98f-49b0-b5a3-a45196d5ebc2.png)
+![Task List Screen](https://user-images.githubusercontent.com/54678239/138807158-9fca0ade-0e67-468d-a856-e08736bdc03c.png)
 
 # AddTaskList Screen
-![Add Task List Screen](https://user-images.githubusercontent.com/54678239/138806571-193d1a84-4b77-40ce-a6a5-627fbba8cf17.png)
+![Add Task List Screen](https://user-images.githubusercontent.com/54678239/138807162-0a2dc931-b77c-483f-a8ff-d9ad9854557e.png)
 
 # Menu Screen
-![Menu Screen](https://user-images.githubusercontent.com/54678239/138806634-174ea040-ba81-44e7-9e5f-104aac93611d.png)
+![Menu Screen](https://user-images.githubusercontent.com/54678239/138807151-aae42d4e-d94c-4a9a-b5a8-aaa8ad2fb506.png)
